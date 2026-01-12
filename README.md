@@ -291,7 +291,5 @@ This project is created for educational and portfolio purposes as part of the Fo
    - Add relevant topics/tags: `tableau`, `data-visualization`, `business-analytics`, `forage`
    - Write a compelling description in repository settings
 
----
 
-**Happy uploading! This is a great portfolio piece for Data Analyst / Business Intelligence roles.** 🎯
 
